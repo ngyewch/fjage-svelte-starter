@@ -49,7 +49,7 @@
     <Drawer variant="modal" bind:this={drawer} bind:open={drawerOpen}>
         <List>
             <Item href="#/" on:click={() => drawerOpen = false}>
-                <Text>Chat</Text>
+                <Text>Home</Text>
             </Item>
             <Item href="#/loremIpsum" on:click={() => drawerOpen = false}>
                 <Text>LoremIpsum</Text>
