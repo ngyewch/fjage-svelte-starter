@@ -1,7 +1,7 @@
 plugins {
     java
     id("com.github.ben-manes.versions")
-    id("com.github.ngyewch.gradle-fjage-plugin") version "0.3.0"
+    id("com.github.ngyewch.gradle-fjage-plugin") version "0.4.0"
 }
 
 repositories {
@@ -9,8 +9,8 @@ repositories {
 }
 
 dependencies {
-    "fjage"("com.github.org-arl:fjage:1.6.3")
-    "fjage"("org.codehaus.groovy:groovy-all:2.5.8")
+    "fjage"("com.github.org-arl:fjage:1.6.5")
+    "fjage"("org.codehaus.groovy:groovy-all:2.5.11")
 }
 
 tasks {
