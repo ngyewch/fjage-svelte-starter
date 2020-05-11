@@ -2,8 +2,8 @@
   "name": "fjage-svelte-starter",
   "description": "fjage svelte starter project",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ngyewch/fjage-svelte-starter"
+    "type": "git",
+    "url": "https://github.com/ngyewch/fjage-svelte-starter"
   },
   "version": "1.0.0",
   "devDependencies": {
